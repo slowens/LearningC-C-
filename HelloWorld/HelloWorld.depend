@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1424474742 source:f:\przemek\wsti\codeblocks\mój przyk³adowy projekt w c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

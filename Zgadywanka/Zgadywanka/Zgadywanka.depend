@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459958006 source:f:\przemek\wsti\codeblocks\! zatwierdzone\zgadywanka\zgadywanka\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

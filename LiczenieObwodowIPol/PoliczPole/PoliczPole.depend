@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460037059 source:f:\przemek\wsti\codeblocks\! zatwierdzone\liczenieobwodowipol\policzpole\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+

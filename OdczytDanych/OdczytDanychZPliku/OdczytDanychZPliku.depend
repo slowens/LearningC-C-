@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459954679 source:f:\przemek\wsti\codeblocks\! zatwierdzone\odczytdanych\odczytdanychzpliku\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+

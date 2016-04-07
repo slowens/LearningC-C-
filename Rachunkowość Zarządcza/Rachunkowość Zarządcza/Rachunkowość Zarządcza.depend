@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1459951994 source:f:\przemek\wsti\codeblocks\rachunkowo쒏 zarz퉐cza\rachunkowo쒏 zarz퉐cza\body.cpp
+	<iostream>
+	"headears.hpp"
+
+1459952148 source:f:\przemek\wsti\codeblocks\rachunkowo쒏 zarz퉐cza\rachunkowo쒏 zarz퉐cza\main.cpp
+	<iostream>
+	<stdio.h>
+	"headears.hpp"
+
+1459951248 f:\przemek\wsti\codeblocks\rachunkowo쒏 zarz퉐cza\rachunkowo쒏 zarz퉐cza\headears.h
+	<iostream>
+	"body.cpp"
+
+1459951356 f:\przemek\wsti\codeblocks\rachunkowo쒏 zarz퉐cza\rachunkowo쒏 zarz퉐cza\body.cpp
+	<iostream>
+
+1459951993 f:\przemek\wsti\codeblocks\rachunkowo쒏 zarz퉐cza\rachunkowo쒏 zarz퉐cza\headears.hpp
+	<iostream>
+
